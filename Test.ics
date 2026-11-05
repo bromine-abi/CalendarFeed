@@ -5,6 +5,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:AN TEST DB - My Schedule
 X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 CLASS:PUBLIC
 DESCRIPTION:Position: A Team 1 - Section 100\nTeam Area: Guest Services - Guest Atndt\nBriefing Area: NORTH GATES\nFacility: new\nYour calendar app checks for updates on its own schedule\, so changes can take up to 24 hours to appear here.
